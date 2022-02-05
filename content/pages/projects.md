@@ -22,13 +22,84 @@ Project Goals
 Project Deliverables
 --------------------
 
-| ASSIGNMENTS | DUE DATES |
-| --- | --- |
-| Project proposal | Lec #5 |
-|  {{< br >}}{{< br >}} Project status presentation {{< br >}}{{< br >}} Prepare a power point status report (approx. 15 minutes) for review with the project faculty {{< br >}}{{< br >}}  | Lec #12 |
-|  {{< br >}}{{< br >}} Quantitative aspects presentation {{< br >}}{{< br >}} Prepare a power point report emphasizing the quantitative aspects of your project (network analysis and other tool application). An approximate time of about 15 minutes is appropriate. {{< br >}}{{< br >}}  | Lec #21 |
-|  {{< br >}}{{< br >}} Final presentation {{< br >}}{{< br >}} Each student will prepare slides to support about a 30 minute final presentation on their project {{< br >}}{{< br >}}  | Lec #24 |
-| Final written report | Lec #25 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project proposal
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Project status presentation
+
+Prepare a power point status report (approx. 15 minutes) for review with the project faculty
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Quantitative aspects presentation
+
+Prepare a power point report emphasizing the quantitative aspects of your project (network analysis and other tool application). An approximate time of about 15 minutes is appropriate.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Final presentation
+
+Each student will prepare slides to support about a 30 minute final presentation on their project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final written report
+{{< tdclose >}}
+{{< tdopen >}}
+Lec #25
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Project Proposal
 ----------------
